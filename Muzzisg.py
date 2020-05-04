@@ -49,9 +49,9 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - MUZZI -OFFICAL------•◈•
+|__\~~) •||•SG - OWNER---------------•◈•
+|__(-----\  •◈•------MUZZI-TIGER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
 \033[1;96mInstagram \033[1;93m: \033[1;FlowRana
 \033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheMuzzi/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -83,12 +83,12 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Themuzzi/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "muzzi"
+CorrectPassword = "muzzi"
 
 loop = 'true'
 while (loop == 'true'):
